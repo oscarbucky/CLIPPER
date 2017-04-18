@@ -1,0 +1,54 @@
+FILACOL 0,0 "                                                                                " CYAN EN AZUL
+FILACOL 1,0 "같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같" CYAN EN AZUL
+FILACOL 2,0 "같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같" CYAN EN AZUL
+FILACOL 3,0 "같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같" CYAN EN AZUL
+FILACOL 4,0 "같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같" CYAN EN AZUL
+FILACOL 5,0 "같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같" CYAN EN AZUL
+FILACOL 6,0 "같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같" CYAN EN AZUL
+FILACOL 7,0 "같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같" CYAN EN AZUL
+FILACOL 8,0 "같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같" CYAN EN AZUL
+FILACOL 9,0 "같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같" CYAN EN AZUL
+FILACOL 10,0 "같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같" CYAN EN AZUL
+FILACOL 11,0 "같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같" CYAN EN AZUL
+FILACOL 12,0 "같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같" CYAN EN AZUL
+FILACOL 13,0 "같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같" CYAN EN AZUL
+FILACOL 14,0 "같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같" CYAN EN AZUL
+FILACOL 15,0 "같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같" CYAN EN AZUL
+FILACOL 16,0 "같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같" CYAN EN AZUL
+FILACOL 17,0 "같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같" CYAN EN AZUL
+FILACOL 18,0 "같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같" CYAN EN AZUL
+FILACOL 19,0 "같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같" CYAN EN AZUL
+FILACOL 20,0 "같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같" CYAN EN AZUL
+FILACOL 21,0 "같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같" CYAN EN AZUL
+FILACOL 22,0 "같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같" CYAN EN AZUL
+FILACOL 23,0 "같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같" CYAN EN AZUL
+FILACOL 24,0 "같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같같" CYAN EN AZUL
+VENTANA 3,17,19,63 BRILLO AMARILLO EN CYAN EXTINCION
+FILACOL 4,64 "같" BRILLO NEGRO EN NEGRO
+FILACOL 5,64 "같" BRILLO NEGRO EN NEGRO
+FILACOL 6,64 "같" BRILLO NEGRO EN NEGRO
+FILACOL 7,64 "같" BRILLO NEGRO EN NEGRO
+FILACOL 8,64 "같" BRILLO NEGRO EN NEGRO
+FILACOL 9,64 "같" BRILLO NEGRO EN NEGRO
+FILACOL 10,64 "같" BRILLO NEGRO EN NEGRO
+FILACOL 11,64 "같" BRILLO NEGRO EN NEGRO
+FILACOL 12,64 "같" BRILLO NEGRO EN NEGRO
+FILACOL 13,64 "같" BRILLO NEGRO EN NEGRO
+FILACOL 14,64 "같" BRILLO NEGRO EN NEGRO
+FILACOL 15,64 "같" BRILLO NEGRO EN NEGRO
+FILACOL 16,64 "같" BRILLO NEGRO EN NEGRO
+FILACOL 17,64 "같" BRILLO NEGRO EN NEGRO
+FILACOL 18,64 "같" BRILLO NEGRO EN NEGRO
+FILACOL 19,64 "같" BRILLO NEGRO EN NEGRO
+FILACOL 20,19 "같같같같같같같같같같같같같같같같같같같같같같같�" BRILLO NEGRO EN NEGRO
+FILACOL 3,22  " Pulse la tecla de opcion deseada "
+FILACOL 7,27 "A. GESTION DE FINCAS"
+FILACOL 8,27 "B. BANCOS"
+FILACOL 9,27 "C. FACTURACION E I.V.A."
+FILACOL 10,27 "D. FICHERO DE CLIENTES"
+FILACOL 11,27 "E. WORDSTAR"
+FILACOL 12,27 "F. INSTALAR FECHA Y HORA"
+FILACOL 13,27 "G. FORMATEAR DISCOS"
+FILACOL 14,27 "H. COPIAS DE SEGURIDAD"
+FILACOL 15,27 "I. RESTAURAR COPIAS"
+
